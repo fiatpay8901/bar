@@ -8,29 +8,29 @@
 
 @font-face {
   font-family: 'Barclays-Effra-Regular';
-  src: url('{% static "assets/fonts/BarclaysEffra_W_Rg.woff2" %}') format('woff2'),
-       url('{% static "assets/fonts/BarclaysEffra_W_Rg.woff" %}') format('woff');
+  src: url('../fonts/BarclaysEffra_W_Rg.woff2') format('woff2'),
+       url('../fonts/BarclaysEffra_W_Rg.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Barclays-Effra-Bold';
-  src: url('{% static "assets/fonts/BarclaysEffra_W_Bd.woff2" %}') format('woff2'),
-       url('{% static "assets/fonts/BarclaysEffra_W_Bd.woff" %}') format('woff');
+  src: url('../fonts/BarclaysEffra_W_Bd.woff2') format('woff2'),
+       url('../fonts/BarclaysEffra_W_Bd.woff') format('woff');
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
   font-family: 'Barclays-Effra-Light';
-  src: url('{% static "assets/fonts/BarclaysEffra_W_Lt.woff2" %}') format('woff2'),
-       url('{% static "assets/fonts/BarclaysEffra_W_Lt.woff" %}') format('woff');
+  src: url('../fonts/BarclaysEffra_W_Lt.woff2') format('woff2'),
+       url('../fonts/BarclaysEffra_W_Lt.woff') format('woff');
   font-weight: 300;
   font-style: normal;
 }
 @font-face {
   font-family: 'Barclays-Effra-Medium';
-  src: url('{% static "assets/fonts/BarclaysEffra_W_Md.woff2" %}') format('woff2'),
-       url('{% static "assets/fonts/BarclaysEffra_W_Md.woff" %}') format('woff');
+  src: url('../fonts/BarclaysEffra_W_Md.woff2') format('woff2'),
+       url('../fonts/BarclaysEffra_W_Md.woff') format('woff');
   font-weight: 500;
   font-style: normal;
 }
